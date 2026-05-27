@@ -4,13 +4,21 @@ A full-stack Pinterest-inspired web application built with Next.js, React, Node.
 
 ## Screenshots
 
-### Home Feed
+### Interiors Feed
 
-![Pinspire home feed](screenshots/home-feed.png)
+![Pinspire interiors feed](screenshots/interiors-feed.png)
 
-### Create Pin
+### Food Feed
 
-![Pinspire create pin page](screenshots/create-pin.png)
+![Pinspire food feed](screenshots/food-feed.png)
+
+### Garden Feed
+
+![Pinspire garden feed](screenshots/garden-feed.png)
+
+### Travel Feed
+
+![Pinspire travel feed](screenshots/travel-feed.png)
 
 ## Features
 
