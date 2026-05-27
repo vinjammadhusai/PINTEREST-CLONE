@@ -1,0 +1,29 @@
+
+> frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.6:3000
+✓ Ready in 328ms
+Creating turbopack project {
+  dir: 'C:\\Users\\madhu\\OneDrive\\Documents\\PINTEREST -CLONE\\frontend',
+  testMode: true
+}
+
+ GET / 200 in 261ms (next.js: 128ms, application-code: 134ms)
+ GET / 200 in 148ms (next.js: 17ms, application-code: 132ms)
+ GET /register 200 in 111ms (next.js: 66ms, application-code: 45ms)
+ GET / 200 in 74ms (next.js: 28ms, application-code: 45ms)
+ GET /upload 200 in 1234ms (next.js: 1059ms, application-code: 175ms)
+ GET /upload 200 in 109ms (next.js: 7ms, application-code: 102ms)
+ GET /upload 200 in 102ms (next.js: 8ms, application-code: 94ms)
+ GET /%22C:/Users/madhu/OneDrive/Pictures/9d380fb52097ed5dad02ea19440de5dd%20(1).jpg%22 404 in 1446ms (next.js: 1310ms, application-code: 137ms)
+ GET /post/6a16f504d9ec0e4c457413a2 200 in 1323ms (next.js: 1273ms, application-code: 50ms)
+ GET / 200 in 60ms (next.js: 17ms, application-code: 43ms)
+ GET /post/6a16f504d9ec0e4c457413a2 200 in 62ms (next.js: 24ms, application-code: 38ms)
+ GET /post/6a16f504d9ec0e4c457413a2 200 in 62ms (next.js: 27ms, application-code: 35ms)
+ GET /profile/6a16f245c222ed5a490307ae 200 in 1270ms (next.js: 1219ms, application-code: 51ms)
+ GET /post/6a16f504d9ec0e4c457413a2 200 in 80ms (next.js: 34ms, application-code: 47ms)
+ GET / 200 in 36ms (next.js: 5ms, application-code: 31ms)
+ GET /post/seed-4 200 in 115ms (next.js: 49ms, application-code: 66ms)
